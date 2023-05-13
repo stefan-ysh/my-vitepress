@@ -1,2 +1,3 @@
 # my-vitepress
-personal vitepress theme practice
+
+a personal vitepress theme customizing practice project
