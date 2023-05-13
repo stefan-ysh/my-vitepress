@@ -1,5 +1,5 @@
 <template>
-  <div class="footer">CC BY-NC-SA 4.0 2021-PRESENT © Anthony Fu</div>
+  <div class="footer">底部信息</div>
 </template>
 <style lang="less">
 .footer {
