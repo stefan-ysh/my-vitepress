@@ -1,5 +1,6 @@
 // .vitepress/theme/index.js
 // .vitepress/theme/index.js
+import './tailwind.postcss'
 import DefaultTheme from 'vitepress/theme'
 import './custom.css'
 
